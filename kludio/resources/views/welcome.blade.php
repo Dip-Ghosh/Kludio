@@ -12,7 +12,8 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #f8fafc;
+                background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fspacedawgbd%2Fvideos%2Fcoca-cola-covid-19-campaign-by-care%2F639207696673013%2F&psig=AOvVaw0xx07TCvScjPxE1iKZ607A&ust=1604079995326000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPij3uit2uwCFQAAAAAdAAAAABAJ');
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -81,17 +82,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Kludio Asia
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="#">BIRIYANI</a>
+                    <a href="#">About</a>
+                    <a href="#">FOOD</a>
+                    <a href="#">NEWS</a>
+
                 </div>
             </div>
         </div>
